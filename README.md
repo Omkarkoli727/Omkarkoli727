@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Omkarkoli727/Omkarkoli727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Omkar Koli
 
-Here are some ideas to get you started:
+🚀 Curious mind exploring the worlds of AI, Machine Learning, and Game Development.
+💻 I love building things with code and learning how technology can solve real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Currently learning and experimenting with:
+• Artificial Intelligence & Machine Learning
+• Python programming
+• Data analysis and problem solving
+• Game development using tools like Pygame
+
+🎮 I enjoy combining logic, creativity, and technology to create interactive experiences and intelligent systems.
+
+🌱 What I'm doing right now:
+• Improving my ML fundamentals
+• Building small projects and games to sharpen my coding skills
+• Exploring new technologies and open-source projects
+
+🤝 Friendly, enthusiastic, and always open to learning from others.
+✨ I believe the best way to learn is by building, experimenting, and sharing.
+
