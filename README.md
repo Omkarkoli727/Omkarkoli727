@@ -28,6 +28,7 @@ I believe the best way to learn is by building projects, experimenting, and impr
 Friendly, curious, and always excited to learn new things and collaborate.
 
 Fun Facts :-
+
 •  I like cats
 •  Optimistic personality
 •  Rubik’s Cube personal best: 1:57 min
