@@ -27,17 +27,12 @@ Python • Pygame • Godot • HTML • CSS • JavaScript • Blender • Asep
 I believe the best way to learn is by building projects, experimenting, and improving step by step.
 Friendly, curious, and always excited to learn new things and collaborate.
 
-Fun Facts
-
-• I like cats
-
-• Optimistic personality
-
-• Rubik’s Cube personal best: 1:57 min
-
-• Hobbies: sketching and chess
-
-• Attack on Titan is my favourite anime
+Fun Facts :-
+•  I like cats
+•  Optimistic personality
+•  Rubik’s Cube personal best: 1:57 min
+•  Hobbies: sketching and chess
+•  Attack on Titan is my favourite anime
 
 
 
