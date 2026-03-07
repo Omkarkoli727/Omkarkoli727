@@ -34,8 +34,32 @@ Fun Facts :-
 •  Rubik’s Cube personal best: 1:57 min <br>
 •  Hobbies: sketching and chess <br>
 •  Attack on Titan is my favourite anime <br>
+<br>
+
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
+</div>
+
+###
+
+
 
 <img src="https://raw.githubusercontent.com/Omkarkoli727/Omkarkoli727/output/snake.svg" alt="Snake animation" />
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omkarkoli727/Omkarkoli727/output/pacman-contribution-graph-dark.svg">
