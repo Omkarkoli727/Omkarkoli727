@@ -35,5 +35,6 @@ Fun Facts :-
 •  Hobbies: sketching and chess <br>
 •  Attack on Titan is my favourite anime <br>
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
