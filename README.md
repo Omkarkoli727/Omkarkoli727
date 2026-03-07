@@ -9,7 +9,7 @@
 • Artificial Intelligence & Machine Learning
 • Python programming
 • Data analysis and problem solving
-• Game development using tools like Pygame
+• Game development using tools like Godot Pygame
 
 🎮 I enjoy combining logic, creativity, and technology to create interactive experiences and intelligent systems.
 
