@@ -30,10 +30,10 @@ Friendly, curious, and always excited to learn new things and collaborate.
 Fun Facts :-
 
 •  I like cats <br>
-•  Optimistic personality
-•  Rubik’s Cube personal best: 1:57 min
-•  Hobbies: sketching and chess
-•  Attack on Titan is my favourite anime
+•  Optimistic personality <br>
+•  Rubik’s Cube personal best: 1:57 min <br>
+•  Hobbies: sketching and chess <br>
+•  Attack on Titan is my favourite anime <br>
 
 
 
