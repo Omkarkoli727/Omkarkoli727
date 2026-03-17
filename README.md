@@ -53,9 +53,6 @@ Fun Facts :-
   <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
 </div>
 
-<br>
-<img src="https://raw.githubusercontent.com/Omkarkoli727/Omkarkoli727/output/snake.svg" alt="Snake animation" />
-<br>
 
 <br>
 <picture>
