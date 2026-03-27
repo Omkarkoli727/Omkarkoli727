@@ -22,7 +22,7 @@ Currently Learning<br>
 • Game mechanics and programming
 
 Tech Stack<br>
-Python • Pygame • Godot • HTML • CSS • JavaScript • Blender • Aseprite • Git • GitHub
+Python • Pygame • Godot • HTML • CSS • JavaScript • Blender • Aseprite • GitHub
 
 I believe the best way to learn is by building projects, experimenting, and improving step by step.
 Friendly, curious, and always excited to learn new things and collaborate.
