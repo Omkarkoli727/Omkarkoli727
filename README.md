@@ -1,4 +1,4 @@
-Hi, I'm Omkar Koli👋
+Hi, I'm Omkar Koli👋...
 
 Enthusiastic learner exploring the worlds of Artificial Intelligence, Machine Learning, and Game Development.
 I enjoy building projects where logic meets creativity — from training models to developing games and interactive ideas.
