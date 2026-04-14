@@ -9,7 +9,7 @@ I enjoy building projects where logic meets creativity — from training models 
 • Experimenting with gameplay mechanics and animations
 
  Animation & Art<br>
-• I enjoy creating animations for my projects
+• I enjoy creating sprites and animations for my projects
 • Blender for 3D animation and models
 • Aseprite for 2D pixel art and sprite animations
 
